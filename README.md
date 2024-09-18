@@ -74,11 +74,9 @@
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iwassomethingamazing&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
+### 📈 Profile Stats
+
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=iwassomethingamazing&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwassomethingamazing&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 <hr>
 <br>

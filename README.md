@@ -11,7 +11,7 @@
 <h3 align="left"> 📫 How to reach me:</h3>
 - theres no way!
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://midleg.vercel.app/)](https://midleg.vercel.app/)
 ![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
 ![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
 

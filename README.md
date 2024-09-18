@@ -1,4 +1,4 @@
-### <img src="[https://giphy.com/gifs/stay-strong-albania-Lt4ZSx8waP2dPMZWci]" width="40">Talking about Personal Stuffs:
+### <img src="[(https://giphy.com/gifs/stay-strong-albania-Lt4ZSx8waP2dPMZWci)]" width="40">Talking about Personal Stuffs:
 
 - 🎓 I am a **student**.
 - 💻 Major is **Computer Science and Technology**.

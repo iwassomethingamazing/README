@@ -2,21 +2,14 @@
 
 - 🎓 I am a **student**.
 - 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and Python**. 
+- 🌱 I'm currently learning **cybersecurity**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-- 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**
-- 💬 If you have any questions, **just ask me**.
+- 📝 Sometimes i debunk serbians thinking that kosovo is serbia**
+- 💬 If you have any questions, just keep them.
 - btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
 
 <h3 align="left"> 📫 How to reach me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="discord" height="30" width="30" /></a>
-<a href="https://telegram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
-<a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
-</p>
-<br>
+- theres no way!
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
 ![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)

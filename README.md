@@ -6,14 +6,14 @@
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
 - 📝 Sometimes i debunk serbians thinking that kosovo is serbia**
 - 💬 If you have any questions, just keep them.
-- btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
+
 
 <h3 align="left"> 📫 How to reach me:</h3>
 - theres no way!
+- actuallz im joking! Go to mz websit for biolink!
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://midleg.vercel.app/)](https://midleg.vercel.app/)
-![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
-![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
+
 
         
 

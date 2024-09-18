@@ -73,3 +73,12 @@
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
+
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iwassomethingamazing&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+
+<hr>
+<br>

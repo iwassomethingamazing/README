@@ -4,7 +4,7 @@
 - 💻 Major is **Computer Science and Technology**.
 - 🌱 I'm currently learning **cybersecurity**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-- 📝 Sometimes i debunk serbians thinking that kosovo is serbia**
+- 📝 Sometimes i **code** too
 - 💬 If you have any questions, just keep them.
 
 
